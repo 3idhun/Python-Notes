@@ -1,4 +1,4 @@
-#Q. WAP to print content of a directory using os module.
+#Q4. WAP to print content of a directory using os module.
 
 import os
 doc_path= r'\Users\midhu\Downloads\Programs\Python\Python_CodeWithHarry_programs\Chapter_1'
