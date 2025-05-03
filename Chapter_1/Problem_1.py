@@ -1,6 +1,6 @@
 #These are the practice set questions mentioned in the 10 hour video by CodeWithHarry, https://www.youtube.com/watch?v=UrsmFxEIp5k
 
-#Q. Print Twinkle Twinkle Little star poem
+#Q1. Print Twinkle Twinkle Little star poem
 
 print('''Twinkle Twinkle, Little Star
 How I wonder what you are

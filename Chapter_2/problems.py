@@ -3,8 +3,7 @@
 Q1. WAP to add two numbers
 Q2. WAP to find remainder when a number is divided by z.
 Q3. Check the type of variable assigned using input() function.
-Q4. Use comparison operator to find out whether a given variable a is greater than 'b' or not
-    take a=34 and b=80
+Q4. Use comparison operator to find out whether a given variable a is greater than 'b' or not take a=34 and b=80
 Q5. WAP to find the average of two numbers entered by the user.
 Q6. WAP to calculate the square of two numbers entered by the user.
 
